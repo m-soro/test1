@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<div class='headline'><h1>Lorem ipsum</h1> </div>
 
-You can use the [editor on GitHub](https://github.com/m-soro/test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div class='sample'><img src='https://photographycourse.net/wp-content/uploads/2020/02/Portrait-vs-Landscape-Featured-Image-3.jpg'></div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua.
 
-### Markdown
+*Ut enim ad minim veniam, quis nostrud exercitation ullamco*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Laboris nisi ut aliquip ex ea commodo consequat
 
-# Header 1
-## Header 2
-### Header 3
+<div class='sample'><img src='https://lh3.googleusercontent.com/4mVNVUybMXXJ5k-PuXHwqwBFDLUZbAuSxa7xcypndKhFZ9RPEGVcoXpU9mLQL6lGg3z3Cvp5pJFWDXwKiYDPWOH9zQ=w640-h400-e365-rj-sc0x00ffffff'></div>
 
-- Bulleted
-- List
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+<div class='sample'><img src='https://learn.zoner.com/wp-content/uploads/2018/08/landscape-photography-at-every-hour-part-ii-photographing-landscapes-in-rain-or-shine.jpg'></div>
 
-[Link](url) and ![Image](src)
-```
+*Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Nunc consequat interdum varius sit.*
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m-soro/test1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Id diam vel quam elementum. Cras sed felis eget velit aliquet sagittis id. Nam at lectus urna duis convallis convallis tellus id interdum.
