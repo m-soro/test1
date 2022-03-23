@@ -3,7 +3,7 @@ const picture2 = document.querySelector(".picture2")
 const callback = (entries, observer) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
-      entry.target.classList.add("animate__animated animate__fadeInLeft animate__delay-2s")
+      entry.target.classList.add("picture2 animate__animated animate__fadeInLeft animate__delay-2s")
     }
   })
 }
