@@ -11,6 +11,23 @@
     <meta property='og:description' content='Easily get arrival times of 91 terminal locations of WMATA Metro Rail in command line. Made with Python and an API from WMATA.'/>
     <meta property='og:url' content='https://m-soro.github.io/wmata_dc_metro_train_times_v2'/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
+    <script>
+    const picture2 = document.querySelector(".picture2")
+
+    const callback = (entries, observer) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("picture2 animate__animated animate__fadeInLeft animate__delay-2s")
+        }
+      })
+    }
+
+    const options = {}
+
+    const myObserver = new IntersectionObserver(callback, options)
+
+    myObserver.observe(picture2)
+    </script>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
