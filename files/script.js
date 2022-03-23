@@ -1,4 +1,4 @@
-const picture2 = document.querySelector("picture2")
+const picture2 = document.querySelector(".picture2")
 
 const callback = (entries, observer) => {
   entries.forEach((entry) => {
