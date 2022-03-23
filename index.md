@@ -11,7 +11,7 @@ magna aliqua.
 
 ## Laboris nisi ut aliquip ex ea commodo consequat
 
-<div class="animate__animated animate__fadeInLeft animate__delay-.5s"><img src='https://github.com/m-soro/test1/blob/main/files/2.jpeg'></div>
+<div class="animate__animated animate__fadeInLeft animate__delay-.5s picture2"><img src='https://github.com/m-soro/test1/blob/main/files/2.jpeg'></div>
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
