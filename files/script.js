@@ -1,8 +1,8 @@
-let options = {
-  root: document.querySelector('#scrollArea'),
-  rootMargin: '0px',
-  threshold: 1.0
-}
+// let options = {
+//   root: document.querySelector('#scrollArea'),
+//   rootMargin: '0px',
+//   threshold: 1.0
+// }
 
 const observer = new IntersectionObserver(entries => {
   // Loop over the entries
@@ -10,7 +10,7 @@ const observer = new IntersectionObserver(entries => {
     // If the element is visible
     if (entry.isIntersecting) {
       // Add the animation class
-      entry.target.classList.add('animate__animated animate__fadeInLeft animate__delay-2s ');
+      entry.target.classList.add('animate__animated animate__fadeInLeft animate__delay-2s');
     }
   });
 });
