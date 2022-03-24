@@ -1,3 +1,5 @@
+document.querySelector.set("div.picture2", {visibility:"visible"});
+
 const callback = (entries, observer) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
