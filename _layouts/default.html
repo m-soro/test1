@@ -12,10 +12,10 @@
     <meta property='og:url' content='https://m-soro.github.io/wmata_dc_metro_train_times_v2'/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
     <script>
-
     const callback = (entries, observer) => {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
+          console.log(entry)
           console.log(entry)
           entry.target.classList.add("animate__animated animate__fadeInLeft animate__delay-2s")
         }
@@ -26,7 +26,8 @@
 
     const myObserver = new IntersectionObserver(callback, options)
 
-    myObserver.observe(document.querySelector("div.picture2")
+    myObserver.observe(document.querySelector("div.picture2"))
+
     </script>
 
 {% seo %}
