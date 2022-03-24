@@ -12,12 +12,13 @@
     <meta property='og:url' content='https://m-soro.github.io/wmata_dc_metro_train_times_v2'/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
     <script>
-    const picture2 = document.querySelector(".picture2")
+    const picture2 = document.querySelector("div.picture2")
 
     const callback = (entries, observer) => {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
-          entry.target.classList.add("picture2 animate__animated animate__fadeInLeft animate__delay-2s")
+          console.log(entry)
+          entry.target.classList.add("animate__animated animate__fadeInLeft animate__delay-2s")
         }
       })
     }
