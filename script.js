@@ -5,7 +5,7 @@ const callback = (entries, observer) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
       console.log(entry)
-      entry.target.classList.add('animate__animated','animate__fadeIn', 'animate__delay-2s')
+      entry.target.classList.add('animate__animated','animate__fadeIn', 'animate__slower')
     }
   })
 }
