@@ -1,5 +1,5 @@
-const element = document.querySelector(".picture2");
-element.style.visibility = "visible";
+// const element = document.querySelector(".picture2");
+// element.style.visibility = "visible";
 
 const callback = (entries, observer) => {
   entries.forEach((entry) => {
