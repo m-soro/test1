@@ -1,11 +1,11 @@
-const element = document.querySelector(".picture2");
-// element.style.visibility = "visible";
+const element = document.querySelector(".picture2")
 
 const callback = (entries, observer) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
       console.log(entry)
-       entry.target.classList.add('animate__animated','animate__fadeInLeft', 'animate__slower')
+      element.style.visibility = "visible"
+      entry.target.classList.add('animate__animated','animate__fadeInLeft', 'animate__slower')
          
     }
   })
