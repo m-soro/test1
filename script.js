@@ -12,7 +12,7 @@ const callback = (entries, observer) => {
 
 const options={
     root:null,
-    rootMargin:'-60px 0px -40% 0px',
+    rootMargin:'-40% 0px -60% 0px',
     threshold: 1
  }
 
