@@ -5,7 +5,7 @@ const callback = (entries, observer) => {
     if (entry.isIntersecting) {
       console.log(entry)
       element.style.visibility = "visible"
-      entry.target.classList.add('animate__animated','animate__fadeInLeft', 'animate__slower')
+      entry.target.classList.add('animate__animated','animate__fadeIn', 'animate__slower')
          
     }
   })
