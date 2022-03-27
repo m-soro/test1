@@ -10,12 +10,6 @@ const callback = (entries, observer) => {
   })
 }
 
-const options={
-    root:null,
-    rootMargin:'100px 0px 0px 0px',
-    threshold: .9
- }
-
-const myObserver = new IntersectionObserver(callback, options)
+const myObserver = new IntersectionObserver(callback, {threshold: .0000009})
 
 myObserver.observe(document.querySelector(".picture2"))
