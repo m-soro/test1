@@ -10,6 +10,6 @@ const callback = (entries, observer) => {
   })
 }
 
-const myObserver = new IntersectionObserver(callback, {root: document.body, threshold: .0000009})
+const myObserver = new IntersectionObserver(callback, {threshold: 0.0000001})
 
 myObserver.observe(element)
