@@ -1,6 +1,3 @@
-for (const pic of imglist) { 
-  console.log(pic)
- }
 
 const imglist = document.querySelectorAll(".pic");    
 // const element = document.querySelector(".pic")
@@ -9,7 +6,10 @@ const callback = (entries, observer) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
       console.log(entry)
-      pic.style.visibility = "visible"
+      for (const pic of imglist) { 
+         pic.style.visibility = "visible"
+        }
+// pic.style.visibility = "visible"
       entry.target.classList.add('animate__animated','animate__fadeIn', 'animate__slow')
          
     }
