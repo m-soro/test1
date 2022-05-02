@@ -1,3 +1,7 @@
+for (const pic of imglist) { 
+  console.log(pic)
+ }
+
 const imglist = document.querySelectorAll(".pic");    
 // const element = document.querySelector(".pic")
 
