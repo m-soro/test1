@@ -17,7 +17,16 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ---
 
-<div class='sample'><img src='https://github.com/m-soro/test1/blob/main/files/3.jpeg?raw=true'></div>
+<div class='picture3'><img src='https://github.com/m-soro/test1/blob/main/files/3.jpeg?raw=true'></div>
+
+*Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Nunc consequat interdum varius sit.*
+
+Id diam vel quam elementum. Cras sed felis eget velit aliquet sagittis id. Nam at lectus urna duis convallis convallis tellus id interdum.
+
+
+---
+
+<div class='picture4'><img src='https://github.com/m-soro/test1/blob/main/files/3.jpeg?raw=true'></div>
 
 *Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Nunc consequat interdum varius sit.*
 
