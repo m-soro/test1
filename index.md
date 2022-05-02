@@ -11,13 +11,13 @@ magna aliqua.
 
 ## Laboris nisi ut aliquip ex ea commodo consequat
 
-<div class="picture2 pic"><img src='https://github.com/m-soro/test1/blob/main/files/2.jpeg?raw=true'></div>
+<div class="pic"><img src='https://github.com/m-soro/test1/blob/main/files/2.jpeg?raw=true'></div>
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
-<div class='picture3 pic'><img src='https://github.com/m-soro/test1/blob/main/files/3.jpeg?raw=true'></div>
+<div class='pic'><img src='https://github.com/m-soro/test1/blob/main/files/3.jpeg?raw=true'></div>
 
 *Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Nunc consequat interdum varius sit.*
 
@@ -26,7 +26,7 @@ Id diam vel quam elementum. Cras sed felis eget velit aliquet sagittis id. Nam a
 
 ---
 
-<div class='picture4 pic'><img src='https://github.com/m-soro/test1/blob/main/files/3.jpeg?raw=true'></div>
+<div class='pic'><img src='https://github.com/m-soro/test1/blob/main/files/3.jpeg?raw=true'></div>
 
 *Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Nunc consequat interdum varius sit.*
 
