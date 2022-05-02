@@ -1,6 +1,6 @@
 <div class='headline'><h1>Lorem ipsum</h1> </div>
 
-<div class='sample'><img src='https://github.com/m-soro/test1/blob/main/files/1.jpeg?raw=true'></div>
+<div class='pic'><img src='https://github.com/m-soro/test1/blob/main/files/1.jpeg?raw=true'></div>
 
 Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
 magna aliqua.
