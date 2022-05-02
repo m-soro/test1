@@ -5,7 +5,7 @@ const callback = (entries, observer) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
       console.log(entry)
-      element.style.visibility = "visible"
+      pic.style.visibility = "visible"
       entry.target.classList.add('animate__animated','animate__fadeIn', 'animate__slow')
          
     }
