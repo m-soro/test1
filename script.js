@@ -1,5 +1,5 @@
 const imglist = document.querySelectorAll(".pic");    
-const element = document.querySelector(".pic")
+// const element = document.querySelector(".pic")
 
 const callback = (entries, observer) => {
   entries.forEach((entry) => {
@@ -14,5 +14,8 @@ const callback = (entries, observer) => {
 
 const myObserver = new IntersectionObserver(callback, {threshold: 0.0000001})
 
-myObserver.observe(element)
+// myObserver.observe(element)
 
+for (const pic of imglist) { 
+  myObserver.observe(pic)
+ }
